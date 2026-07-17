@@ -1,0 +1,10 @@
+x=int(input("x="))
+y=int(input("y="))
+x=y+x
+y=x+y
+x=x*y
+x=x-y
+y=x/y
+x=y%x
+print(x)
+print(y)
