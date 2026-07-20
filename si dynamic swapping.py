@@ -1,0 +1,5 @@
+x=int(input())
+y=int(input())
+z=int(input())
+si=(x*y*z/100)
+print(si)
