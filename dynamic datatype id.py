@@ -1,0 +1,6 @@
+a=int(input("enter number of a:"))
+b=float(input("enter number of b:"))
+print(a)
+print(b)
+print(type(a),type(b))
+print(id(a),(id(b)))
